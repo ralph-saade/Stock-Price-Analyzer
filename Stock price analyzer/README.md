@@ -13,7 +13,7 @@ The tool allows you to:
 
 ## 🗂 Project Files
 - [Stock_analysis](stock_analysis.ipynb) — main script containing the stock analysis code.
-- [requirements.txt](requirements.txt)` — list of dependencies needed to run the project.
+- [requirements.txt](requirements.txt) — list of dependencies needed to run the project.
 - [screenshots](screenshots/) — folder containing output charts.
 
 ---
@@ -32,5 +32,6 @@ matplotlib
 Screenshot
 
 ![Dashboard showing code output for AAPL stock](screenshots/Stock1.png)
+
 
 
