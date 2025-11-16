@@ -29,9 +29,10 @@ matplotlib
 -Run the main script
 -When prompted, enter a stock symbol, e.g.: AAPL,MSFT,TSLA
 
-Screenshot
+## Screenshot
 
 ![Dashboard showing code output for AAPL stock](screenshots/Stock1.png)
+
 
 
 
