@@ -1,6 +1,6 @@
 # Python Stock Analyzer
 
-## 📌 Description
+##  Description
 This project is a Python-based **Stock Analyzer** that retrieves historical stock price data, visualizes trends, and calculates basic performance metrics. It uses `yfinance`, `pandas`, and `matplotlib` to pull real market data and generate insights.
 
 The tool allows you to:
@@ -11,14 +11,14 @@ The tool allows you to:
 
 ---
 
-## 🗂 Project Files
+##  Project Files
 - [Stock_analysis](stock_analysis.ipynb) — main script containing the stock analysis code.
 - [requirements.txt](requirements.txt) — list of dependencies needed to run the project.
 - [screenshots](screenshots/) — folder containing output charts.
 
 ---
 
-## 🛠 Requirements
+##  Requirements
 The project uses the following Python libraries:
 yfinance
 pandas
@@ -32,6 +32,7 @@ matplotlib
 Screenshot
 
 ![Dashboard showing code output for AAPL stock](screenshots/Stock1.png)
+
 
 
 
