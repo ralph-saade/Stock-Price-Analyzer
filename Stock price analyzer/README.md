@@ -24,7 +24,7 @@ yfinance
 pandas
 matplotlib
 
-## ▶ How to Run the Project
+## How to Run the Project
 -pip install yfinance pandas matplotlib
 -Run the main script
 -When prompted, enter a stock symbol, e.g.: AAPL,MSFT,TSLA
@@ -32,6 +32,7 @@ matplotlib
 ## Screenshot
 
 ![Dashboard showing code output for AAPL stock](screenshots/Stock1.png)
+
 
 
 
